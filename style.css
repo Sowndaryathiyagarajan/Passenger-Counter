@@ -1,0 +1,45 @@
+body{
+    background-image: url(station.jpg);
+    background-size: cover;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 15px 25px;
+    color: white;
+    font-size: 25px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#inc-btn{
+    background-color: #9bafd9;
+}
+#save-btn{
+    background-color: #103783;
+    color: white;
+}
+p{
+    font-size: 25px;
+}
+.content-box{
+    background-image: linear-gradient( #ebf4f5, #b5c6e0);
+    border: 5px solid black;
+    width: 400px;
+    margin: auto;
+}
